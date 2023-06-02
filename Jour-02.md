@@ -2,11 +2,11 @@
 
 ### Mardi 16/05/2023
 
-* [ ] Configuration de son environnement de travail
-  * [ ] Mise à jour OS (Linux, Windows, Mac)
-  * [ ] Installation (Discord)
-  * [ ] Installation navigateur (Developper Edition)
-  * [ ] Création et configuration Mail pro 
+* [x] Configuration de son environnement de travail
+  * [x] Mise à jour OS (Linux, Windows, Mac)
+  * [x] Installation (Discord)
+  * [x] Installation navigateur (Developper Edition)
+  * [x] Création et configuration Mail pro 
   * [ ] Création et configuration Twitter pro 
 * [ ] Découverte du Terminal : 
   * [ ] Comprendre la différence entre une interface en ligne de commande et une interface graphique
@@ -19,3 +19,4 @@
 * [ ] Choix / installation d'un terminal (Linux, Mac ou Windows)
 * [ ] Découverte de VS Code
 * [ ] Comprendre le web (Openclassrooms)
+
